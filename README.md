@@ -17,9 +17,10 @@ Source: https://www.globenewswire.com/news-release/2022/05/25/2450084/0/en/Telec
 ## DATA UNDERSTANDING
 
 Customer churn is when a customer leaves the company and retention is when a customer continues using the company’s service. SyriaTel’s churn rate is only 14.5% compared to the industry average of 22%. I used a dataset of over 3,000 American customers. I wanted to know what factors are most important in determining customer churn and how churn can be reduced. **The metric I will optimize is the F1 score**. Both precision and recall are very important for this project so F1 is best used because it is a combination of both precision and recall.  
+Source: https://www.smartlook.com/blog/customer-churn-retention/
 
 ![image](https://user-images.githubusercontent.com/101752113/177214044-c0ed74c6-035e-4de5-af26-55ce0ce7c499.png)
-
+ ## EVALUATION 
 
 ![image](https://user-images.githubusercontent.com/101752113/177214690-0aa8857e-dc12-4d12-9236-a1745e4ee242.png)
 
