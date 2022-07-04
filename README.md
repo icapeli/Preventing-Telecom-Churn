@@ -32,7 +32,11 @@ Source: https://www.smartlook.com/blog/customer-churn-retention/
 
 ![image](https://user-images.githubusercontent.com/101752113/177214203-d8fcc79f-56ad-49d6-a181-13d3b8d27def.png)
 
+## RECOMMENDATIONS
+
 ![image](https://user-images.githubusercontent.com/101752113/177214362-b815f4f1-489f-4876-bfa6-68d6dfc3031e.png)
+
+## NEXT STEPS
 
 ![image](https://user-images.githubusercontent.com/101752113/177214298-12897070-af20-417d-b15c-f810665fb41d.png)
 
